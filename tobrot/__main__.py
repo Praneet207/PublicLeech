@@ -50,9 +50,9 @@ if __name__ == "__main__" :
     #
     app = Client(
         "LeechBot",
-        bot_token=TG_BOT_TOKEN,
-        api_id=APP_ID,
-        api_hash=API_HASH,
+        bot_token=5341638080:AAF8AEKUCCSoD0Fol7QMUIhXINfPvNM_0_0,
+        api_id=7028372,
+        api_hash=10bc5c7771a121c180ab8859ab438bb8,
         workers=343,
         workdir=DOWNLOAD_LOCATION
     )
