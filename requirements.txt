@@ -2,6 +2,6 @@ aiohttp
 aria2p
 hachoir
 Pillow
-git+git://github.com/pyrogram/pyrogram@Praneet207#pyrogram
+git+git://github.com/pyrogram/pyrogram@asyncio-dev#pyrogram
 tgcrypto
 
